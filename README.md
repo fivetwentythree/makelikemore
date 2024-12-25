@@ -47,6 +47,4 @@ The script handles the following errors:
 - `FileNotFoundError`: If the input file is not found, an error message is printed, and `None` is returned.
 - Other exceptions: Any other exceptions are caught, an error message is printed, and `None` is returned.
 
----
 
-You can further customize this README file based on any additional information or specific requirements.
